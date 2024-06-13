@@ -15,7 +15,7 @@ git clone https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus.git
 
 ### Activating the Theme
 
-1.  Go to `%AppData%\Notepad++\themes` (%AppData% is platform dependent environment variable. Open a Command Prompt and execute `echo %AppData%`)
+1.  Go to `%AppData%\Notepad++\themes` in windows explorer (%AppData% is platform dependent environment variable. Open a Command Prompt and execute `echo %AppData%`)
 2.  Place [`Dark Castle.xml`](https://raw.githubusercontent.com/scottgriv/Dark-Castle-Notepad-Plus-Plus/main/Dark%20Castle.xml) inside that folder
 3.  Restart Notepad++
-4.  Dracula will be available in `Settings > Style Configurator`
+4.  **Dark Castle** will be available in `Settings > Style Configurator`
